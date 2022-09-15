@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gitFinder/static/css/main.9d69ec17.css",
-    "main.js": "/gitFinder/static/js/main.9d37993d.js",
-    "static/media/icon-sun.svg": "/gitFinder/static/media/icon-sun.c3177fa453380a8147df081ec10c2789.svg",
-    "static/media/icon-website.svg": "/gitFinder/static/media/icon-website.cf4904e442232792159e0e1bd2d500aa.svg",
-    "static/media/icon-company.svg": "/gitFinder/static/media/icon-company.6331bb91a37d52462978487317f0c6e9.svg",
-    "index.html": "/gitFinder/index.html",
-    "static/media/icon-twitter.svg": "/gitFinder/static/media/icon-twitter.4fcae7ca106860a363d667535442c085.svg",
-    "static/media/icon-moon.svg": "/gitFinder/static/media/icon-moon.f5076b814caae9443a0b8ee24682ed13.svg",
-    "static/media/icon-search.svg": "/gitFinder/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
-    "static/media/icon-location.svg": "/gitFinder/static/media/icon-location.f6d18983ab4be8b3314d51c208fba4d4.svg",
-    "main.9d69ec17.css.map": "/gitFinder/static/css/main.9d69ec17.css.map",
-    "main.9d37993d.js.map": "/gitFinder/static/js/main.9d37993d.js.map"
+    "main.css": "/GitFinder/static/css/main.9d69ec17.css",
+    "main.js": "/GitFinder/static/js/main.01e2481e.js",
+    "static/media/icon-sun.svg": "/GitFinder/static/media/icon-sun.c3177fa453380a8147df081ec10c2789.svg",
+    "static/media/icon-website.svg": "/GitFinder/static/media/icon-website.cf4904e442232792159e0e1bd2d500aa.svg",
+    "static/media/icon-company.svg": "/GitFinder/static/media/icon-company.6331bb91a37d52462978487317f0c6e9.svg",
+    "index.html": "/GitFinder/index.html",
+    "static/media/icon-twitter.svg": "/GitFinder/static/media/icon-twitter.4fcae7ca106860a363d667535442c085.svg",
+    "static/media/icon-moon.svg": "/GitFinder/static/media/icon-moon.f5076b814caae9443a0b8ee24682ed13.svg",
+    "static/media/icon-search.svg": "/GitFinder/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
+    "static/media/icon-location.svg": "/GitFinder/static/media/icon-location.f6d18983ab4be8b3314d51c208fba4d4.svg",
+    "main.9d69ec17.css.map": "/GitFinder/static/css/main.9d69ec17.css.map",
+    "main.01e2481e.js.map": "/GitFinder/static/js/main.01e2481e.js.map"
   },
   "entrypoints": [
     "static/css/main.9d69ec17.css",
-    "static/js/main.9d37993d.js"
+    "static/js/main.01e2481e.js"
   ]
 }
