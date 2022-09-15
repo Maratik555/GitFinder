@@ -2,7 +2,7 @@
 	"name": "react-ts-github-finder",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://maratik555.github.io/gitFinder/",
+	"homepage": "https://maratik555.github.io/GitFinder/",
 	"dependencies": {
 		"gh-pages": "^4.0.0",
 		"react": "^18.2.0",
